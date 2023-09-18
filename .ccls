@@ -1,0 +1,7 @@
+clang
+-W
+-Wall
+-D_TINSPIRE
+-I/home/aamaruvi/.ndless/include
+-I/home/aamaruvi/git/Ndless/ndless-sdk/include
+-I/home/aamaruvi/git/Ndless/ndless-sdk/include/freetype2

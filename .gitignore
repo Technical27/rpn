@@ -1,0 +1,4 @@
+*.tns
+*.elf
+*.o
+.ccls-cache/
